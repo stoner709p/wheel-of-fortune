@@ -1,0 +1,57 @@
+#header1 {
+    color: maroon;
+    text-align: center;
+}
+#button1 {
+    text-align: center;
+}
+#button2 {
+     text-align: center;
+ }
+#button3 {
+    text-align: center;
+}
+#category {
+    text-align: center;
+    color: chartreuse;
+}
+#display1 {
+    text-align: center;
+    color: chartreuse;
+}
+#spinner {
+    text-align: center;
+    color: chartreuse;
+}
+#catoButton {
+    border-radius: 4px;
+    border: 2px solid #2D74EF;
+    background-color: transparent;
+    transition-duration: 0.4s;
+}
+#startButton {
+
+    border-radius: 5px;
+    border: 2px solid #2D74EF;
+    background-color: transparent;
+    transition-duration: 0.4s;
+}
+#guessButton {
+    border-radius: 6px;
+    border: 2px solid #2D74EF;
+    background-color: transparent;
+    transition-duration: 0.4s;
+}
+#guessButton:hover {
+    background-color: chartreuse;
+}
+#startButton:hover {
+    background-color: chartreuse;
+}
+#catoButton:hover {
+    background-color: chartreuse;
+}
+
+#mainBody {
+    background: #AAAAAA;
+}
